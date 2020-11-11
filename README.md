@@ -1,0 +1,1 @@
+# next.js_client_Initial_setting
